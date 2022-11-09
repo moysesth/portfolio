@@ -15,7 +15,7 @@
 
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-accent: #cc8877;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -362,3 +362,5 @@ nav {
 .social-list__link {
     padding: .5em;
 }
+
+
